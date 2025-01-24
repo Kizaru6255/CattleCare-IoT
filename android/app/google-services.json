@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "77981689708",
+    "firebase_url": "https://wechat-4e23c-default-rtdb.firebaseio.com",
+    "project_id": "wechat-4e23c",
+    "storage_bucket": "wechat-4e23c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:77981689708:android:f2f81e4f7bc1321814f549",
+        "android_client_info": {
+          "package_name": "com.example.cow_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "77981689708-5b9t7i57o56i5uofhuta13oki232tg26.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cow_1",
+            "certificate_hash": "fc94144f161c141c2b1f255cc745795d682ab94b"
+          }
+        },
+        {
+          "client_id": "77981689708-1dhc3jc77hqmffo99pb51qp9skt42j1b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7fmb-sCFDOFV5tzqI4pxvr4YJY4aXr48"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "77981689708-1dhc3jc77hqmffo99pb51qp9skt42j1b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "77981689708-dqmmrjuf7on2v41lf2ofk377ethol682.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.harshRajpurohit.weChat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

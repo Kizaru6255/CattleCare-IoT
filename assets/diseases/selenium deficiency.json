@@ -1,0 +1,43 @@
+{
+  "name": "Selenium Deficiency",
+  "information": "Selenium deficiency is a nutritional disorder that affects growth, reproduction, and immune function in cattle.",
+  "symptoms": [
+    "Weakness",
+    "Poor growth",
+    "Muscle degeneration",
+    "Reproductive issues",
+    "White muscle disease",
+    "Poor coat condition",
+    "Increased susceptibility to disease",
+    "Diarrhea",
+    "Poor hoof quality",
+    "Death in severe cases"
+  ],
+  "remedies": [
+    "Selenium supplementation",
+    "Dietary adjustment",
+    "Mineral supplementation",
+    "Regular monitoring",
+    "Feed analysis",
+    "Good nutrition"
+  ],
+  "causes": {
+    "main": "Insufficient selenium in the diet",
+    "specific_causes": [
+      "Poor quality feed",
+      "Soil deficiency",
+      "Imbalanced mineral ratios",
+      "Stress",
+      "Disease conditions",
+      "Genetic predisposition"
+    ]
+  },
+  "prevention": [
+    "Balanced mineral program",
+    "Regular feed testing",
+    "Proper supplementation",
+    "Soil testing",
+    "Good nutrition",
+    "Regular health checks"
+  ]
+}

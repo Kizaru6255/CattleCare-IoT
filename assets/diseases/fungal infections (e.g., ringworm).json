@@ -1,0 +1,43 @@
+{
+  "name": "Fungal Infections",
+  "information": "Fungal infections, such as ringworm, are caused by various fungi and can affect the skin, hooves, and respiratory system of cattle.",
+  "symptoms": [
+    "Hair loss",
+    "Crusty lesions",
+    "Itching",
+    "Inflammation",
+    "Foul odor",
+    "Respiratory signs",
+    "Weight loss",
+    "Poor coat condition",
+    "Secondary infections",
+    "Reduced production"
+  ],
+  "remedies": [
+    "Antifungal treatment",
+    "Topical medications",
+    "Supportive care",
+    "Good hygiene",
+    "Isolation of affected animals",
+    "Environmental management"
+  ],
+  "causes": {
+    "main": "Infection by various fungal species",
+    "specific_causes": [
+      "Direct contact with infected animals",
+      "Contaminated equipment",
+      "Poor hygiene",
+      "Environmental factors",
+      "Stress",
+      "Weakened immune system"
+    ]
+  },
+  "prevention": [
+    "Good hygiene practices",
+    "Regular monitoring",
+    "Minimize stress",
+    "Proper management",
+    "Isolation of new animals",
+    "Environmental sanitation"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Milk Fever",
+  "information": "Milk fever is a metabolic disorder caused by low blood calcium levels, typically occurring around calving. Also known as hypocalcemia.",
+  "symptoms": [
+    "Muscle weakness",
+    "Cold ears",
+    "Difficulty standing",
+    "Depression",
+    "Loss of appetite",
+    "Constipation",
+    "Lying down",
+    "Low body temperature",
+    "Rapid heart rate",
+    "Death if untreated"
+  ],
+  "remedies": [
+    "Calcium injection",
+    "Oral calcium supplements",
+    "Supportive care",
+    "Warmth",
+    "Regular monitoring",
+    "Careful handling"
+  ],
+  "causes": {
+    "main": "Low blood calcium levels around calving",
+    "specific_causes": [
+      "High milk production",
+      "Dietary imbalances",
+      "Age of cow",
+      "Previous milk fever",
+      "High phosphorus diet",
+      "Sudden feed changes"
+    ]
+  },
+  "prevention": [
+    "Proper dry cow diet",
+    "Calcium management",
+    "DCAD diet balancing",
+    "Regular monitoring",
+    "Mineral supplementation",
+    "Body condition management"
+  ]
+}

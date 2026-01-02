@@ -1,0 +1,43 @@
+{
+  "name": "Anaplasmosis",
+  "information": "Anaplasmosis is a tick-borne disease caused by Anaplasma marginale that affects red blood cells, causing severe anemia.",
+  "symptoms": [
+    "Severe anemia",
+    "Weakness",
+    "High fever",
+    "Depression",
+    "Loss of appetite",
+    "Pale mucous membranes",
+    "Jaundice",
+    "Rapid breathing",
+    "Decreased milk production",
+    "Death in severe cases"
+  ],
+  "remedies": [
+    "Tetracycline antibiotics",
+    "Supportive care",
+    "Blood transfusions",
+    "Anti-inflammatory medication",
+    "Rest",
+    "Good nursing care"
+  ],
+  "causes": {
+    "main": "Infection by Anaplasma marginale bacteria",
+    "specific_causes": [
+      "Tick bites",
+      "Contaminated needles",
+      "Surgical instruments",
+      "Biting insects",
+      "Poor vector control",
+      "Lack of prevention"
+    ]
+  },
+  "prevention": [
+    "Tick control",
+    "Vector control",
+    "Clean equipment",
+    "Vaccination",
+    "Regular monitoring",
+    "Strategic treatment"
+  ]
+}

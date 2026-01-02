@@ -1,0 +1,43 @@
+{
+  "name": "Leptospirosis",
+  "information": "Leptospirosis is a bacterial infection caused by Leptospira species, affecting multiple organs and causing reproductive issues in cattle.",
+  "symptoms": [
+    "Fever",
+    "Depression",
+    "Loss of appetite",
+    "Jaundice",
+    "Abortion",
+    "Weak calves",
+    "Increased thirst",
+    "Frequent urination",
+    "Lethargy",
+    "Respiratory signs"
+  ],
+  "remedies": [
+    "Antibiotic treatment",
+    "Supportive care",
+    "Fluid therapy",
+    "Rest",
+    "Good hygiene",
+    "Isolation of affected animals"
+  ],
+  "causes": {
+    "main": "Infection by Leptospira bacteria",
+    "specific_causes": [
+      "Contact with contaminated water",
+      "Infected urine",
+      "Poor sanitation",
+      "Environmental exposure",
+      "Wildlife carriers",
+      "Stress"
+    ]
+  },
+  "prevention": [
+    "Vaccination",
+    "Good hygiene practices",
+    "Regular monitoring",
+    "Avoiding contact with contaminated water",
+    "Proper waste management",
+    "Biosecurity measures"
+  ]
+}

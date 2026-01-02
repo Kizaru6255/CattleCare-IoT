@@ -1,0 +1,43 @@
+{
+  "name": "Liver Fluke Infection",
+  "information": "Liver fluke infection is caused by parasitic flatworms (Fasciola hepatica) that affect the liver and bile ducts of cattle.",
+  "symptoms": [
+    "Weight loss",
+    "Poor appetite",
+    "Anemia",
+    "Jaundice",
+    "Abdominal pain",
+    "Diarrhea",
+    "Swollen abdomen",
+    "Reduced milk production",
+    "Lethargy",
+    "Death in severe cases"
+  ],
+  "remedies": [
+    "Antiparasitic treatment",
+    "Supportive care",
+    "Fluid therapy",
+    "Good nutrition",
+    "Regular monitoring",
+    "Isolation of affected animals"
+  ],
+  "causes": {
+    "main": "Infection by Fasciola hepatica",
+    "specific_causes": [
+      "Contact with contaminated water",
+      "Grazing in wet areas",
+      "Poor pasture management",
+      "Wildlife carriers",
+      "Environmental factors",
+      "Stress"
+    ]
+  },
+  "prevention": [
+    "Proper pasture management",
+    "Avoiding wet grazing areas",
+    "Regular monitoring",
+    "Good hygiene practices",
+    "Vaccination where applicable",
+    "Biosecurity measures"
+  ]
+}

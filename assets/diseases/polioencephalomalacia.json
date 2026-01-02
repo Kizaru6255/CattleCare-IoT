@@ -1,0 +1,43 @@
+{
+  "name": "Polioencephalomalacia",
+  "information": "Polioencephalomalacia is a neurological disorder caused by thiamine deficiency, leading to brain damage in cattle.",
+  "symptoms": [
+    "Neurological signs",
+    "Staggering",
+    "Head pressing",
+    "Blindness",
+    "Seizures",
+    "Depression",
+    "Loss of appetite",
+    "Abnormal posture",
+    "Difficulty standing",
+    "Death if untreated"
+  ],
+  "remedies": [
+    "Thiamine supplementation",
+    "Supportive care",
+    "Fluid therapy",
+    "Good nutrition",
+    "Regular monitoring",
+    "Isolation of affected animals"
+  ],
+  "causes": {
+    "main": "Thiamine deficiency",
+    "specific_causes": [
+      "High grain diets",
+      "Poor nutrition",
+      "Stress",
+      "Environmental factors",
+      "Weakened immune system",
+      "Inadequate rumen health"
+    ]
+  },
+  "prevention": [
+    "Balanced diet",
+    "Regular monitoring",
+    "Good management practices",
+    "Stress reduction",
+    "Proper nutrition",
+    "Avoiding sudden diet changes"
+  ]
+}

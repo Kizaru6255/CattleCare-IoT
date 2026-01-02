@@ -1,0 +1,41 @@
+{
+  "name": "White Muscle Disease",
+  "information": "White muscle disease is a degenerative muscle disorder caused by selenium and/or vitamin E deficiency. It primarily affects young, fast-growing animals.",
+  "symptoms": [
+    "Muscle stiffness",
+    "Weakness",
+    "Difficulty standing",
+    "Trembling",
+    "Poor growth",
+    "Heart problems",
+    "Difficulty sucking",
+    "Sudden death in severe cases",
+    "White streaks in muscles"
+  ],
+  "remedies": [
+    "Selenium supplementation",
+    "Vitamin E supplementation",
+    "Supportive care",
+    "Injectable treatments",
+    "Dietary adjustments",
+    "Rest during recovery"
+  ],
+  "causes": {
+    "main": "Selenium and/or vitamin E deficiency",
+    "specific_causes": [
+      "Deficient soil in region",
+      "Poor quality feed",
+      "Rapid growth",
+      "Stress",
+      "Inadequate mineral supplementation"
+    ]
+  },
+  "prevention": [
+    "Proper mineral supplementation",
+    "Balanced nutrition",
+    "Regular soil testing",
+    "Feed analysis",
+    "Strategic supplementation",
+    "Regular monitoring"
+  ]
+}

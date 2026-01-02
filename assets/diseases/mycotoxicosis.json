@@ -1,0 +1,43 @@
+{
+  "name": "Mycotoxicosis",
+  "information": "Mycotoxicosis is a toxic condition caused by the ingestion of mycotoxins produced by molds in feed, leading to various health issues.",
+  "symptoms": [
+    "Weight loss",
+    "Poor appetite",
+    "Diarrhea",
+    "Liver damage",
+    "Immunosuppression",
+    "Reproductive issues",
+    "Neurological signs",
+    "Skin lesions",
+    "Respiratory problems",
+    "Death in severe cases"
+  ],
+  "remedies": [
+    "Removal of contaminated feed",
+    "Supportive care",
+    "Fluid therapy",
+    "Nutritional support",
+    "Regular monitoring",
+    "Good hygiene practices"
+  ],
+  "causes": {
+    "main": "Ingestion of mycotoxins from contaminated feed",
+    "specific_causes": [
+      "Poor feed storage",
+      "High moisture content",
+      "Environmental conditions",
+      "Inadequate feed management",
+      "Stress",
+      "Weakened immune system"
+    ]
+  },
+  "prevention": [
+    "Proper feed storage",
+    "Regular feed testing",
+    "Good hygiene practices",
+    "Minimizing moisture",
+    "Regular monitoring",
+    "Avoiding contaminated sources"
+  ]
+}

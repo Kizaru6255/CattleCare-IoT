@@ -1,0 +1,44 @@
+{
+  "name": "Coccidiosis",
+  "information": "Coccidiosis is a parasitic disease affecting the intestinal tract of cattle, particularly young calves. It's caused by protozoan parasites of the genus Eimeria.",
+  "symptoms": [
+    "Watery or bloody diarrhea",
+    "Dehydration",
+    "Weakness",
+    "Depression",
+    "Straining to defecate",
+    "Loss of appetite",
+    "Weight loss",
+    "Anemia",
+    "Poor growth",
+    "Death in severe cases"
+  ],
+  "remedies": [
+    "Coccidiostats medication",
+    "Supportive care",
+    "Fluid therapy",
+    "Electrolyte replacement",
+    "Nutritional support",
+    "Isolation of affected animals"
+  ],
+  "causes": {
+    "main": "Infection by Eimeria species (protozoan parasites)",
+    "specific_causes": [
+      "Overcrowding",
+      "Poor sanitation",
+      "Contaminated feed or water",
+      "Stress",
+      "Wet conditions",
+      "Weakened immune system"
+    ]
+  },
+  "prevention": [
+    "Good sanitation",
+    "Proper stocking density",
+    "Clean feed and water",
+    "Stress reduction",
+    "Regular cleaning",
+    "Preventive medication in feed",
+    "Proper waste management"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Trichomoniasis",
+  "information": "Trichomoniasis is a sexually transmitted disease caused by protozoan parasites. It primarily affects reproduction and can cause early pregnancy loss.",
+  "symptoms": [
+    "Early embryonic death",
+    "Irregular heat cycles",
+    "Pyometra",
+    "Infertility",
+    "Vaginal discharge",
+    "Reduced pregnancy rates",
+    "Abortions",
+    "Extended breeding season",
+    "No visible symptoms in bulls"
+  ],
+  "remedies": [
+    "No treatment for bulls",
+    "Culling of infected bulls",
+    "Rest period for infected cows",
+    "Management of breeding program",
+    "Artificial insemination"
+  ],
+  "causes": {
+    "main": "Infection by Tritrichomonas foetus parasite",
+    "specific_causes": [
+      "Natural breeding with infected bulls",
+      "Poor biosecurity",
+      "Shared bulls",
+      "Lack of testing",
+      "Poor breeding management"
+    ]
+  },
+  "prevention": [
+    "Regular bull testing",
+    "Culling positive animals",
+    "Artificial insemination",
+    "Virgin bulls",
+    "Good biosecurity",
+    "Proper breeding records"
+  ]
+}

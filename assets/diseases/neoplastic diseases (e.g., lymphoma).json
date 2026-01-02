@@ -1,0 +1,43 @@
+{
+  "name": "Neoplastic Diseases",
+  "information": "Neoplastic diseases encompass a range of conditions characterized by abnormal cell growth, including cancers such as lymphoma.",
+  "symptoms": [
+    "Weight loss",
+    "Lethargy",
+    "Swelling or lumps",
+    "Difficulty breathing",
+    "Loss of appetite",
+    "Abnormal bleeding",
+    "Changes in behavior",
+    "Poor coat condition",
+    "Reduced production",
+    "Death in severe cases"
+  ],
+  "remedies": [
+    "Surgical removal of tumors",
+    "Supportive care",
+    "Palliative care",
+    "Chemotherapy in some cases",
+    "Regular monitoring",
+    "Good nutrition"
+  ],
+  "causes": {
+    "main": "Various factors including genetic predisposition and environmental influences",
+    "specific_causes": [
+      "Viral infections",
+      "Chronic inflammation",
+      "Exposure to carcinogens",
+      "Genetic mutations",
+      "Poor nutrition",
+      "Stress"
+    ]
+  },
+  "prevention": [
+    "Regular health checks",
+    "Good management practices",
+    "Stress reduction",
+    "Proper nutrition",
+    "Vaccination where applicable",
+    "Avoiding known carcinogens"
+  ]
+}

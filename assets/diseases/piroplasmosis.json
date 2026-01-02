@@ -1,0 +1,42 @@
+{
+  "name": "Piroplasmosis",
+  "information": "Piroplasmosis is a tick-borne disease caused by parasites that infect red blood cells. It causes severe anemia and can be fatal if untreated.",
+  "symptoms": [
+    "High fever",
+    "Anemia",
+    "Jaundice",
+    "Dark urine",
+    "Depression",
+    "Weakness",
+    "Loss of appetite",
+    "Rapid breathing",
+    "Decreased milk production",
+    "Death in severe cases"
+  ],
+  "remedies": [
+    "Anti-parasitic drugs",
+    "Supportive care",
+    "Blood transfusions if needed",
+    "Fluid therapy",
+    "Rest and good nutrition",
+    "Protection from stress"
+  ],
+  "causes": {
+    "main": "Infection by Babesia parasites transmitted by ticks",
+    "specific_causes": [
+      "Tick bites",
+      "Poor tick control",
+      "Grazing in tick-infested areas",
+      "Lack of immunity",
+      "Stress factors"
+    ]
+  },
+  "prevention": [
+    "Tick control programs",
+    "Regular inspection for ticks",
+    "Pasture management",
+    "Strategic dipping/spraying",
+    "Vaccination where available",
+    "Good biosecurity"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Vesicular Exanthema",
+  "information": "Vesicular exanthema is a viral disease that primarily affects swine and is characterized by the formation of vesicles (blisters) on the skin and mucous membranes.",
+  "symptoms": [
+    "Formation of vesicles on the skin",
+    "Fever",
+    "Lethargy",
+    "Loss of appetite",
+    "Salivation"
+  ],
+  "remedies": [
+    "Supportive care and hydration",
+    "Antiviral medications in some cases",
+    "Isolation of affected animals",
+    "Vaccination where applicable"
+  ],
+  "causes": {
+    "main": "Infection by vesicular exanthema virus (VEV)",
+    "specific_causes": [
+      "Contact with infected animals",
+      "Contaminated feed or water",
+      "Environmental exposure"
+    ]
+  },
+  "prevention": [
+    "Good biosecurity practices",
+    "Regular vaccination",
+    "Monitoring and controlling animal movements",
+    "Prompt reporting of suspected cases"
+  ]
+}

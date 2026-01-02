@@ -1,0 +1,43 @@
+{
+  "name": "Bovine Besnoitiosis",
+  "information": "Bovine besnoitiosis is a parasitic disease caused by Besnoitia besnoiti, characterized by skin lesions, weight loss, and reproductive problems.",
+  "symptoms": [
+    "Thick, wrinkled skin",
+    "Hair loss",
+    "Weight loss",
+    "Fever",
+    "Swollen joints",
+    "Reduced fertility",
+    "Cyst formation",
+    "Photosensitivity",
+    "Poor condition",
+    "Reproductive failure"
+  ],
+  "remedies": [
+    "Supportive care",
+    "Anti-inflammatory medication",
+    "Pain management",
+    "Skin care",
+    "Nutritional support",
+    "Rest"
+  ],
+  "causes": {
+    "main": "Infection by Besnoitia besnoiti parasite",
+    "specific_causes": [
+      "Insect vectors",
+      "Direct contact",
+      "Mechanical transmission",
+      "Poor biosecurity",
+      "Environmental factors",
+      "Stress"
+    ]
+  },
+  "prevention": [
+    "Vector control",
+    "Good biosecurity",
+    "Regular monitoring",
+    "Quarantine new animals",
+    "Stress reduction",
+    "Environmental management"
+  ]
+}

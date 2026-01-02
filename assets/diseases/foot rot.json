@@ -1,0 +1,40 @@
+{
+  "name": "Foot Rot",
+  "information": "Foot rot is a bacterial infection that causes inflammation and decay in the hooves and surrounding tissue. It's common in cattle kept in wet, muddy conditions.",
+  "symptoms": [
+    "Severe lameness",
+    "Swelling between the claws",
+    "Foul-smelling discharge",
+    "Separation of the hoof wall",
+    "Fever",
+    "Reduced appetite",
+    "Weight loss",
+    "Decreased milk production"
+  ],
+  "remedies": [
+    "Antibiotics treatment",
+    "Foot baths with copper sulfate or zinc sulfate",
+    "Cleaning and trimming of affected hooves",
+    "Bandaging in severe cases",
+    "Moving to dry ground",
+    "Pain management medication"
+  ],
+  "causes": {
+    "main": "Bacterial infection (Fusobacterium necrophorum and Bacteroides melaninogenicus)",
+    "specific_causes": [
+      "Wet, muddy conditions",
+      "Hoof injuries",
+      "Poor sanitation",
+      "Rough or rocky terrain",
+      "Vitamin A or zinc deficiency"
+    ]
+  },
+  "prevention": [
+    "Regular hoof trimming",
+    "Proper drainage in pens and pastures",
+    "Regular use of footbaths",
+    "Good nutrition",
+    "Avoiding overcrowding",
+    "Maintaining clean, dry conditions"
+  ]
+}

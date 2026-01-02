@@ -1,0 +1,43 @@
+{
+  "name": "Nitrate Poisoning",
+  "information": "Nitrate poisoning occurs when cattle consume high levels of nitrates, leading to methemoglobinemia and reduced oxygen transport in the blood.",
+  "symptoms": [
+    "Rapid breathing",
+    "Weakness",
+    "Lethargy",
+    "Brown discoloration of blood",
+    "Cyanosis",
+    "Abdominal pain",
+    "Diarrhea",
+    "Tremors",
+    "Death in severe cases",
+    "Sudden onset"
+  ],
+  "remedies": [
+    "Methylene blue treatment",
+    "Supportive care",
+    "Fluid therapy",
+    "Good nutrition",
+    "Regular monitoring",
+    "Isolation of affected animals"
+  ],
+  "causes": {
+    "main": "Ingestion of high-nitrate feed or water",
+    "specific_causes": [
+      "Fertilizer application",
+      "Drought-stressed plants",
+      "Contaminated water sources",
+      "Poor feed management",
+      "Environmental factors",
+      "Weakened immune system"
+    ]
+  },
+  "prevention": [
+    "Regular feed testing",
+    "Proper fertilizer management",
+    "Avoiding high-nitrate forages",
+    "Good water quality management",
+    "Monitoring environmental conditions",
+    "Gradual introduction of new feeds"
+  ]
+}

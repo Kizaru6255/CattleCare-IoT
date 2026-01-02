@@ -1,0 +1,39 @@
+{
+  "name": "Anthrax",
+  "information": "Anthrax is a serious infectious disease caused by gram-positive, rod-shaped bacteria known as Bacillus anthracis. It can affect both humans and animals, particularly cattle, sheep, and goats.",
+  "symptoms": [
+    "Sudden death in animals",
+    "High fever",
+    "Difficulty breathing",
+    "Trembling",
+    "Collapse",
+    "Blood in urine or feces",
+    "Swelling around neck and throat",
+    "Convulsions",
+    "Dark blood from natural openings"
+  ],
+  "remedies": [
+    "Immediate veterinary attention is required",
+    "Antibiotics (if caught early)",
+    "Proper disposal of infected carcasses",
+    "Vaccination of other animals in the herd",
+    "Quarantine of affected areas"
+  ],
+  "causes": {
+    "main": "Infection by Bacillus anthracis bacteria, usually through ingestion of contaminated soil, plants, or water",
+    "specific_causes": [
+      "Grazing in contaminated pastures",
+      "Consuming contaminated feed or water",
+      "Exposure to infected animals",
+      "Contact with contaminated soil containing anthrax spores"
+    ]
+  },
+  "prevention": [
+    "Annual vaccination in endemic areas",
+    "Proper disposal of infected carcasses",
+    "Avoid grazing in known infected areas",
+    "Regular monitoring of herd health",
+    "Proper sanitation and biosecurity measures",
+    "Quick reporting of suspicious deaths to authorities"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Salmonellosis",
+  "information": "Salmonellosis is a bacterial infection causing severe digestive issues. It can affect cattle of all ages and is a significant zoonotic concern.",
+  "symptoms": [
+    "Severe diarrhea",
+    "High fever",
+    "Depression",
+    "Dehydration",
+    "Loss of appetite",
+    "Weakness",
+    "Blood in feces",
+    "Abortion in pregnant animals",
+    "Joint infection",
+    "Death in severe cases"
+  ],
+  "remedies": [
+    "Fluid therapy",
+    "Antibiotic treatment",
+    "Electrolyte replacement",
+    "Anti-inflammatory medication",
+    "Supportive care",
+    "Isolation"
+  ],
+  "causes": {
+    "main": "Infection by Salmonella bacteria",
+    "specific_causes": [
+      "Contaminated feed or water",
+      "Poor sanitation",
+      "Stress",
+      "Overcrowding",
+      "Wildlife carriers",
+      "Environmental contamination"
+    ]
+  },
+  "prevention": [
+    "Good sanitation",
+    "Clean water supply",
+    "Feed management",
+    "Stress reduction",
+    "Proper waste handling",
+    "Regular cleaning"
+  ]
+}

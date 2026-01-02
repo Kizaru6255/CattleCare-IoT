@@ -1,0 +1,40 @@
+{
+  "name": "Infectious Bovine Rhinotracheitis (IBR)",
+  "information": "IBR is a highly contagious viral disease that affects the upper respiratory tract of cattle. It's caused by bovine herpesvirus 1 (BHV-1).",
+  "symptoms": [
+    "High fever",
+    "Nasal discharge",
+    "Coughing",
+    "Red, inflamed nostrils",
+    "Loss of appetite",
+    "Depression",
+    "Conjunctivitis",
+    "Abortions in pregnant cows",
+    "Reduced milk production"
+  ],
+  "remedies": [
+    "No specific treatment for the virus",
+    "Antibiotics for secondary bacterial infections",
+    "Anti-inflammatory medications",
+    "Supportive care",
+    "Rest in comfortable environment"
+  ],
+  "causes": {
+    "main": "Infection by bovine herpesvirus 1 (BHV-1)",
+    "specific_causes": [
+      "Direct contact with infected animals",
+      "Airborne transmission",
+      "Contaminated equipment",
+      "Stress from transportation",
+      "Crowded conditions"
+    ]
+  },
+  "prevention": [
+    "Regular vaccination program",
+    "Good biosecurity measures",
+    "Isolation of new animals",
+    "Proper ventilation",
+    "Stress reduction",
+    "Regular health monitoring"
+  ]
+}

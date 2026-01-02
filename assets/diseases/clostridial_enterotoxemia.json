@@ -1,0 +1,43 @@
+{
+  "name": "Clostridial Enterotoxemia",
+  "information": "Clostridial enterotoxemia is a severe disease caused by toxins produced by Clostridium species, often leading to rapid death.",
+  "symptoms": [
+    "Sudden death",
+    "Severe abdominal pain",
+    "Bloat",
+    "Diarrhea",
+    "Depression",
+    "Loss of appetite",
+    "Fever",
+    "Dehydration",
+    "Weakness",
+    "Neurological signs"
+  ],
+  "remedies": [
+    "Antibiotic treatment",
+    "Supportive care",
+    "Fluid therapy",
+    "Pain management",
+    "Isolation of affected animals",
+    "Good nursing care"
+  ],
+  "causes": {
+    "main": "Toxin production by Clostridium species",
+    "specific_causes": [
+      "Overeating",
+      "Sudden diet changes",
+      "Rich feed",
+      "Environmental stress",
+      "Poor feed management",
+      "Weakened immune system"
+    ]
+  },
+  "prevention": [
+    "Proper feeding practices",
+    "Gradual diet changes",
+    "Good hygiene",
+    "Regular monitoring",
+    "Stress reduction",
+    "Vaccination where applicable"
+  ]
+}

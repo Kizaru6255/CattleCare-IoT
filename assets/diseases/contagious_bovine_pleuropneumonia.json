@@ -1,0 +1,42 @@
+{
+  "name": "Contagious Bovine Pleuropneumonia",
+  "information": "CBPP is a highly contagious bacterial disease that affects the lungs and chest cavity of cattle. It's caused by Mycoplasma mycoides and can be fatal.",
+  "symptoms": [
+    "Difficult breathing",
+    "Coughing",
+    "Chest pain",
+    "High fever",
+    "Depression",
+    "Loss of appetite",
+    "Nasal discharge",
+    "Joint swelling",
+    "Reduced milk production",
+    "Death in severe cases"
+  ],
+  "remedies": [
+    "Antibiotic treatment",
+    "Supportive care",
+    "Rest",
+    "Anti-inflammatory medication",
+    "Isolation of affected animals",
+    "Often requires culling"
+  ],
+  "causes": {
+    "main": "Infection by Mycoplasma mycoides bacteria",
+    "specific_causes": [
+      "Close contact with infected animals",
+      "Airborne transmission",
+      "Movement of carrier animals",
+      "Poor ventilation",
+      "Overcrowding"
+    ]
+  },
+  "prevention": [
+    "Vaccination in endemic areas",
+    "Movement control",
+    "Testing and surveillance",
+    "Quarantine of new animals",
+    "Good ventilation",
+    "Proper biosecurity measures"
+  ]
+}

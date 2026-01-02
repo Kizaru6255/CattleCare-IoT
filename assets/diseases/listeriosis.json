@@ -1,0 +1,43 @@
+{
+  "name": "Listeriosis",
+  "information": "Listeriosis is a bacterial infection that affects the brain, causing neurological symptoms. It's often associated with feeding poor quality silage.",
+  "symptoms": [
+    "Circling",
+    "Depression",
+    "Facial paralysis",
+    "Head pressing",
+    "Loss of appetite",
+    "Drooling",
+    "Fever",
+    "Abortion in pregnant animals",
+    "Disorientation",
+    "Death if untreated"
+  ],
+  "remedies": [
+    "High-dose antibiotics",
+    "Supportive care",
+    "Anti-inflammatory medication",
+    "Fluid therapy",
+    "Nursing care",
+    "Isolation"
+  ],
+  "causes": {
+    "main": "Infection by Listeria monocytogenes bacteria",
+    "specific_causes": [
+      "Poor quality silage",
+      "Contaminated feed",
+      "Soil contamination",
+      "Damaged feed storage",
+      "Environmental stress",
+      "Weakened immunity"
+    ]
+  },
+  "prevention": [
+    "Good silage management",
+    "Proper feed storage",
+    "Feed quality control",
+    "Clean feeding areas",
+    "Regular monitoring",
+    "Stress reduction"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Bovine Respiratory Disease",
+  "information": "Bovine respiratory disease is a complex condition involving multiple pathogens, causing severe respiratory issues particularly in young or stressed cattle.",
+  "symptoms": [
+    "Difficulty breathing",
+    "Nasal discharge",
+    "Coughing",
+    "Depression",
+    "High fever",
+    "Loss of appetite",
+    "Drooping ears",
+    "Rapid breathing",
+    "Lethargy",
+    "Death if untreated"
+  ],
+  "remedies": [
+    "Antibiotic treatment",
+    "Anti-inflammatory medication",
+    "Fluid therapy",
+    "Rest",
+    "Good nursing care",
+    "Isolation"
+  ],
+  "causes": {
+    "main": "Complex of viral and bacterial pathogens",
+    "specific_causes": [
+      "Stress",
+      "Poor ventilation",
+      "Overcrowding",
+      "Transportation",
+      "Weather changes",
+      "Mixed groups"
+    ]
+  },
+  "prevention": [
+    "Vaccination",
+    "Good ventilation",
+    "Stress reduction",
+    "Proper housing",
+    "Regular monitoring",
+    "Quick treatment response"
+  ]
+}

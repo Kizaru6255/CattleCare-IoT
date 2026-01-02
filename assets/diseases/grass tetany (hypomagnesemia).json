@@ -1,0 +1,43 @@
+{
+  "name": "Grass Tetany",
+  "information": "Grass tetany is a metabolic disorder caused by magnesium deficiency. It commonly occurs when cattle are grazing on lush, rapidly growing grass.",
+  "symptoms": [
+    "Muscle twitching",
+    "Nervousness",
+    "Staggering",
+    "Convulsions",
+    "Collapse",
+    "Aggressive behavior",
+    "Grinding teeth",
+    "Head thrown back",
+    "Death if untreated",
+    "Rapid onset"
+  ],
+  "remedies": [
+    "Magnesium injection",
+    "Calcium injection",
+    "Move from pasture",
+    "Supportive care",
+    "Stress reduction",
+    "Careful handling"
+  ],
+  "causes": {
+    "main": "Magnesium deficiency in the blood",
+    "specific_causes": [
+      "Grazing lush grass",
+      "Low magnesium in soil",
+      "High potassium in grass",
+      "Cold, wet weather",
+      "Stress",
+      "Lactation demands"
+    ]
+  },
+  "prevention": [
+    "Magnesium supplementation",
+    "Mineral blocks",
+    "Balanced grazing",
+    "Regular monitoring",
+    "Proper nutrition",
+    "Strategic grazing management"
+  ]
+}

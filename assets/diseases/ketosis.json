@@ -1,0 +1,43 @@
+{
+  "name": "Ketosis",
+  "information": "Ketosis is a metabolic disorder that occurs when there is an excess of ketone bodies in the blood, often due to inadequate energy intake in lactating cows.",
+  "symptoms": [
+    "Decreased milk production",
+    "Weight loss",
+    "Sweet-smelling breath",
+    "Lethargy",
+    "Loss of appetite",
+    "Nervousness",
+    "Increased heart rate",
+    "Poor body condition",
+    "Abnormal behavior",
+    "Potential for secondary infections"
+  ],
+  "remedies": [
+    "Glucose or propylene glycol supplementation",
+    "Supportive care",
+    "Fluid therapy",
+    "Dietary adjustments",
+    "Regular monitoring",
+    "Good nutrition management"
+  ],
+  "causes": {
+    "main": "Inadequate energy intake during lactation",
+    "specific_causes": [
+      "High milk production demands",
+      "Poor feed quality",
+      "Sudden dietary changes",
+      "Stress",
+      "Inadequate body condition",
+      "Poor management practices"
+    ]
+  },
+  "prevention": [
+    "Balanced diet",
+    "Regular monitoring of body condition",
+    "Gradual diet changes",
+    "Good management practices",
+    "Stress reduction",
+    "Adequate energy intake"
+  ]
+}

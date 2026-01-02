@@ -1,0 +1,43 @@
+{
+  "name": "Hardware Disease",
+  "information": "Hardware disease occurs when cattle ingest metal objects that can penetrate the reticulum and cause severe damage to internal organs, particularly the heart.",
+  "symptoms": [
+    "Reduced appetite",
+    "Drop in milk production",
+    "Reluctance to move",
+    "Arched back",
+    "Pain when defecating",
+    "Grunt when forced to move",
+    "Irregular heartbeat",
+    "Weight loss",
+    "Depression",
+    "Fever"
+  ],
+  "remedies": [
+    "Surgery if possible",
+    "Magnet administration",
+    "Antibiotic treatment",
+    "Pain management",
+    "Supportive care",
+    "Rest and isolation"
+  ],
+  "causes": {
+    "main": "Ingestion of sharp metal objects",
+    "specific_causes": [
+      "Baling wire pieces",
+      "Nails in feed",
+      "Metal debris in pasture",
+      "Poor feed screening",
+      "Contaminated hay",
+      "Construction debris"
+    ]
+  },
+  "prevention": [
+    "Preventive magnets",
+    "Regular field cleaning",
+    "Metal detection in feed",
+    "Proper feed storage",
+    "Clean feeding areas",
+    "Regular environment inspection"
+  ]
+}

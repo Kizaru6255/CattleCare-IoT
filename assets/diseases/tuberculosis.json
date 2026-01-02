@@ -1,0 +1,43 @@
+{
+  "name": "Tuberculosis",
+  "information": "Bovine tuberculosis is a chronic bacterial disease affecting multiple organs. It's a significant zoonotic disease that can affect humans.",
+  "symptoms": [
+    "Chronic cough",
+    "Weight loss",
+    "Fluctuating fever",
+    "Enlarged lymph nodes",
+    "Poor appetite",
+    "Weakness",
+    "Respiratory difficulty",
+    "Diarrhea",
+    "Reduced production",
+    "Progressive deterioration"
+  ],
+  "remedies": [
+    "No treatment allowed",
+    "Must be reported",
+    "Quarantine required",
+    "Culling of infected animals",
+    "Herd testing",
+    "Movement restrictions"
+  ],
+  "causes": {
+    "main": "Infection by Mycobacterium bovis bacteria",
+    "specific_causes": [
+      "Contact with infected animals",
+      "Contaminated environment",
+      "Poor ventilation",
+      "Overcrowding",
+      "Wildlife reservoirs",
+      "Poor biosecurity"
+    ]
+  },
+  "prevention": [
+    "Regular testing",
+    "Movement control",
+    "Good ventilation",
+    "Proper stocking density",
+    "Wildlife control",
+    "Strict biosecurity"
+  ]
+}

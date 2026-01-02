@@ -1,0 +1,43 @@
+{
+  "name": "Infectious Bovine Keratoconjunctivitis",
+  "information": "IBK, also known as pink eye, is a highly contagious bacterial infection affecting the eyes. It can cause temporary or permanent blindness if untreated.",
+  "symptoms": [
+    "Excessive tearing",
+    "Light sensitivity",
+    "Eye inflammation",
+    "Corneal ulcers",
+    "Cloudy cornea",
+    "Squinting",
+    "Red eyes",
+    "Vision loss",
+    "Eye pain",
+    "White spot on cornea"
+  ],
+  "remedies": [
+    "Antibiotic treatment",
+    "Eye patches",
+    "Isolation of affected animals",
+    "Fly control",
+    "Anti-inflammatory medication",
+    "Supportive care"
+  ],
+  "causes": {
+    "main": "Infection by Moraxella bovis bacteria",
+    "specific_causes": [
+      "Face flies",
+      "UV radiation",
+      "Dust",
+      "Plant irritation",
+      "Mechanical injury",
+      "Stress"
+    ]
+  },
+  "prevention": [
+    "Fly control programs",
+    "Face fly control",
+    "Vaccination",
+    "Dust control",
+    "UV protection",
+    "Good pasture management"
+  ]
+}

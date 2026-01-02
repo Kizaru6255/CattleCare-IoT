@@ -1,0 +1,42 @@
+{
+  "name": "Yersiniosis",
+  "information": "Yersiniosis is a bacterial infection that primarily affects young or stressed cattle, causing diarrhea and other digestive issues.",
+  "symptoms": [
+    "Severe diarrhea",
+    "Dehydration",
+    "Depression",
+    "Loss of appetite",
+    "Weight loss",
+    "Fever",
+    "Weakness",
+    "Blood in feces",
+    "Abdominal pain"
+  ],
+  "remedies": [
+    "Antibiotic treatment",
+    "Fluid therapy",
+    "Electrolyte replacement",
+    "Supportive care",
+    "Anti-inflammatory medication",
+    "Good nursing care"
+  ],
+  "causes": {
+    "main": "Infection by Yersinia bacteria, primarily Y. enterocolitica and Y. pseudotuberculosis",
+    "specific_causes": [
+      "Contaminated feed or water",
+      "Poor sanitation",
+      "Stress",
+      "Cold weather",
+      "Overcrowding",
+      "Weakened immune system"
+    ]
+  },
+  "prevention": [
+    "Good hygiene practices",
+    "Clean water supply",
+    "Proper feed storage",
+    "Stress reduction",
+    "Regular cleaning",
+    "Proper stocking density"
+  ]
+}

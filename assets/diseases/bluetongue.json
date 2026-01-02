@@ -1,0 +1,43 @@
+{
+  "name": "Bluetongue",
+  "information": "Bluetongue is a viral disease transmitted by Culicoides midges, causing inflammation and swelling of the mouth, tongue, and feet.",
+  "symptoms": [
+    "Swollen tongue",
+    "Blue tongue color",
+    "Excessive salivation",
+    "Nasal discharge",
+    "Mouth ulcers",
+    "Lameness",
+    "Fever",
+    "Depression",
+    "Facial swelling",
+    "Reproductive problems"
+  ],
+  "remedies": [
+    "Supportive care",
+    "Anti-inflammatory medication",
+    "Fluid therapy",
+    "Rest",
+    "Soft feed",
+    "Nursing care"
+  ],
+  "causes": {
+    "main": "Infection by bluetongue virus",
+    "specific_causes": [
+      "Midge bites",
+      "Seasonal conditions",
+      "Poor vector control",
+      "Environmental factors",
+      "Movement to endemic areas",
+      "Lack of immunity"
+    ]
+  },
+  "prevention": [
+    "Vector control",
+    "Vaccination",
+    "Movement restrictions",
+    "Environmental management",
+    "Regular monitoring",
+    "Strategic timing"
+  ]
+}

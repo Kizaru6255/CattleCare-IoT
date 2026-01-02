@@ -1,0 +1,41 @@
+{
+  "name": "Actinobacillosis",
+  "information": "Actinobacillosis is a bacterial infection that causes inflammation and abscesses, particularly in the soft tissues of the mouth and tongue.",
+  "symptoms": [
+    "Swollen tongue",
+    "Difficulty eating",
+    "Excessive salivation",
+    "Hard lumps in tongue",
+    "Weight loss",
+    "Difficulty swallowing",
+    "Enlarged lymph nodes",
+    "Reduced feed intake",
+    "Depression"
+  ],
+  "remedies": [
+    "Antibiotic treatment",
+    "Sodium iodide therapy",
+    "Drainage of abscesses",
+    "Supportive care",
+    "Soft feed",
+    "Pain management"
+  ],
+  "causes": {
+    "main": "Infection by Actinobacillus lignieresii bacteria",
+    "specific_causes": [
+      "Mouth injuries",
+      "Coarse feed",
+      "Sharp objects in feed",
+      "Poor oral hygiene",
+      "Damaged oral tissues"
+    ]
+  },
+  "prevention": [
+    "Regular feed inspection",
+    "Remove sharp objects",
+    "Good quality feed",
+    "Regular oral checks",
+    "Proper feed processing",
+    "Good hygiene"
+  ]
+}

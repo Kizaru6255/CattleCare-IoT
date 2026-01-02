@@ -1,0 +1,42 @@
+{
+  "name": "Bovine Viral Diarrhea",
+  "information": "BVD is a viral disease that affects multiple body systems and can cause reproductive, respiratory, and digestive problems. It's one of the most economically important cattle diseases.",
+  "symptoms": [
+    "Diarrhea",
+    "Fever",
+    "Depression",
+    "Loss of appetite",
+    "Nasal discharge",
+    "Mouth ulcers",
+    "Reproductive failures",
+    "Birth defects",
+    "Weak calves",
+    "Decreased milk production"
+  ],
+  "remedies": [
+    "No specific treatment",
+    "Supportive care",
+    "Fluid therapy",
+    "Anti-inflammatory medication",
+    "Antibiotics for secondary infections",
+    "Isolation of affected animals"
+  ],
+  "causes": {
+    "main": "Infection by Bovine Viral Diarrhea Virus (BVDV)",
+    "specific_causes": [
+      "Contact with persistently infected animals",
+      "Contaminated equipment",
+      "Fetal infection during pregnancy",
+      "Introduction of new animals",
+      "Poor biosecurity"
+    ]
+  },
+  "prevention": [
+    "Vaccination program",
+    "Testing and removal of PI animals",
+    "Biosecurity measures",
+    "Quarantine of new animals",
+    "Regular herd testing",
+    "Good record keeping"
+  ]
+}

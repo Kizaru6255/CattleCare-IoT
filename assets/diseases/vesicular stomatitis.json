@@ -1,0 +1,41 @@
+{
+  "name": "Vesicular Stomatitis",
+  "information": "Vesicular stomatitis is a viral disease that causes blisters in the mouth, on teats, and around hooves. It can be confused with foot-and-mouth disease.",
+  "symptoms": [
+    "Blisters in mouth",
+    "Excessive salivation",
+    "Lameness",
+    "Teat lesions",
+    "Loss of appetite",
+    "Weight loss",
+    "Fever",
+    "Depression",
+    "Reduced milk production"
+  ],
+  "remedies": [
+    "Supportive care",
+    "Soft feed",
+    "Pain management",
+    "Wound care",
+    "Anti-inflammatory medication",
+    "Rest and isolation"
+  ],
+  "causes": {
+    "main": "Infection by vesicular stomatitis virus",
+    "specific_causes": [
+      "Insect vectors",
+      "Direct contact",
+      "Contaminated equipment",
+      "Mechanical transmission",
+      "Environmental factors"
+    ]
+  },
+  "prevention": [
+    "Insect control",
+    "Good sanitation",
+    "Isolation of new animals",
+    "Regular monitoring",
+    "Quick reporting of cases",
+    "Proper biosecurity"
+  ]
+}

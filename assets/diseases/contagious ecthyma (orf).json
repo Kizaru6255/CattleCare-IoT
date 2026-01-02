@@ -1,0 +1,43 @@
+{
+  "name": "Contagious Ecthyma",
+  "information": "Contagious ecthyma, also known as orf, is a viral disease that causes lesions on the lips and mouth of cattle, primarily affecting young animals.",
+  "symptoms": [
+    "Crusty lesions on lips",
+    "Swollen mouth",
+    "Excessive salivation",
+    "Difficulty eating",
+    "Fever",
+    "Depression",
+    "Weight loss",
+    "Secondary infections",
+    "Nasal discharge",
+    "Pain when eating"
+  ],
+  "remedies": [
+    "Supportive care",
+    "Topical antiseptics",
+    "Soft feed",
+    "Pain management",
+    "Isolation of affected animals",
+    "Good hygiene"
+  ],
+  "causes": {
+    "main": "Infection by orf virus (parapoxvirus)",
+    "specific_causes": [
+      "Direct contact with infected animals",
+      "Contaminated equipment",
+      "Environmental exposure",
+      "Skin abrasions",
+      "Poor hygiene",
+      "Stress"
+    ]
+  },
+  "prevention": [
+    "Vaccination in endemic areas",
+    "Good hygiene practices",
+    "Regular monitoring",
+    "Isolation of affected animals",
+    "Proper feed management",
+    "Avoiding contact with wild animals"
+  ]
+}

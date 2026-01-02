@@ -1,0 +1,43 @@
+{
+  "name": "Neosporosis",
+  "information": "Neosporosis is a parasitic disease caused by Neospora caninum that primarily affects reproduction, causing abortions and stillbirths in cattle.",
+  "symptoms": [
+    "Abortion",
+    "Stillbirth",
+    "Weak calves",
+    "Birth defects",
+    "Neurological signs in calves",
+    "Reduced fertility",
+    "Repeat breeding",
+    "Early embryonic death",
+    "Mummified fetuses",
+    "No obvious signs in adults"
+  ],
+  "remedies": [
+    "No specific treatment",
+    "Supportive care",
+    "Management of breeding program",
+    "Proper disposal of infected materials",
+    "Testing and culling strategy",
+    "Prevention is key"
+  ],
+  "causes": {
+    "main": "Infection by Neospora caninum parasite",
+    "specific_causes": [
+      "Dog feces contamination",
+      "Infected feed or water",
+      "Vertical transmission",
+      "Poor biosecurity",
+      "Wildlife presence",
+      "Environmental contamination"
+    ]
+  },
+  "prevention": [
+    "Dog control on farm",
+    "Feed and water protection",
+    "Testing breeding stock",
+    "Good hygiene",
+    "Proper carcass disposal",
+    "Regular monitoring"
+  ]
+}

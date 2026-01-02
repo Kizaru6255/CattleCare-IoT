@@ -1,0 +1,37 @@
+{
+  "name": "Blackleg",
+  "information": "Blackleg is an acute, infectious disease caused by Clostridium chauvoei bacteria. It primarily affects young cattle between 6 months and 2 years of age.",
+  "symptoms": [
+    "Sudden lameness",
+    "Loss of appetite",
+    "High fever",
+    "Depression",
+    "Swelling of muscles in legs, shoulders, chest",
+    "Hot and painful swellings that become cold and painless",
+    "Crackling sound when pressing affected areas",
+    "Rapid death (usually within 12-48 hours)"
+  ],
+  "remedies": [
+    "Treatment is usually ineffective due to rapid progression",
+    "Early antibiotic treatment might help in some cases",
+    "Supportive care and isolation of affected animals",
+    "Proper disposal of carcasses to prevent spread"
+  ],
+  "causes": {
+    "main": "Infection by Clostridium chauvoei bacteria, which can lie dormant in soil for years",
+    "specific_causes": [
+      "Ingestion of bacterial spores from contaminated soil",
+      "Injury or bruising that activates dormant spores in muscle tissue",
+      "High protein diets in young cattle",
+      "Sudden changes in feeding patterns"
+    ]
+  },
+  "prevention": [
+    "Vaccination of calves at 4-6 months of age",
+    "Annual booster vaccinations",
+    "Proper pasture management",
+    "Avoiding sudden changes in diet",
+    "Good sanitation practices",
+    "Proper disposal of infected carcasses"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Urolithiasis",
+  "information": "Urolithiasis, commonly known as water belly, is a condition characterized by the formation of stones in the urinary tract, leading to obstruction.",
+  "symptoms": [
+    "Straining to urinate",
+    "Blood in urine",
+    "Abdominal pain",
+    "Depression",
+    "Loss of appetite",
+    "Frequent urination attempts",
+    "Swollen abdomen",
+    "Lethargy",
+    "Difficulty walking",
+    "Death if untreated"
+  ],
+  "remedies": [
+    "Surgical intervention if necessary",
+    "Supportive care",
+    "Fluid therapy",
+    "Dietary management",
+    "Pain management",
+    "Regular monitoring"
+  ],
+  "causes": {
+    "main": "Formation of mineral stones in the urinary tract",
+    "specific_causes": [
+      "High phosphorus diets",
+      "Low water intake",
+      "Poor nutrition",
+      "Genetic predisposition",
+      "Stress",
+      "Environmental factors"
+    ]
+  },
+  "prevention": [
+    "Proper dietary management",
+    "Adequate water supply",
+    "Regular monitoring",
+    "Stress reduction",
+    "Good management practices",
+    "Avoiding high-phosphorus feeds"
+  ]
+}

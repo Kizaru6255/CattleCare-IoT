@@ -1,0 +1,43 @@
+{
+  "name": "Copper Deficiency",
+  "information": "Copper deficiency is a nutritional disorder that affects growth, reproduction, and immune function in cattle.",
+  "symptoms": [
+    "Poor growth",
+    "Anemia",
+    "Weakness",
+    "Bone abnormalities",
+    "Reproductive issues",
+    "Hair coat changes",
+    "Increased susceptibility to disease",
+    "Diarrhea",
+    "Poor hoof quality",
+    "Neurological signs"
+  ],
+  "remedies": [
+    "Copper supplementation",
+    "Dietary adjustment",
+    "Mineral supplementation",
+    "Regular monitoring",
+    "Feed analysis",
+    "Good nutrition"
+  ],
+  "causes": {
+    "main": "Insufficient copper in the diet",
+    "specific_causes": [
+      "Poor quality feed",
+      "High molybdenum levels",
+      "Soil deficiency",
+      "Imbalanced mineral ratios",
+      "Stress",
+      "Disease conditions"
+    ]
+  },
+  "prevention": [
+    "Balanced mineral program",
+    "Regular feed testing",
+    "Proper supplementation",
+    "Soil testing",
+    "Good nutrition",
+    "Regular health checks"
+  ]
+}

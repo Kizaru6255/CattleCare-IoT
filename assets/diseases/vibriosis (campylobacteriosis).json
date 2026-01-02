@@ -1,0 +1,39 @@
+{
+  "name": "Vibriosis",
+  "information": "Vibriosis is a venereal disease caused by Campylobacter fetus bacteria. It primarily affects reproduction, causing infertility and early embryonic death.",
+  "symptoms": [
+    "Repeat breeding",
+    "Irregular heat cycles",
+    "Early embryonic death",
+    "Delayed conception",
+    "Occasional abortions",
+    "Reduced pregnancy rates",
+    "Extended breeding season",
+    "No visible symptoms in bulls"
+  ],
+  "remedies": [
+    "Antibiotic treatment",
+    "Vaccination",
+    "Rest period for infected cows",
+    "Artificial insemination",
+    "Management of breeding program"
+  ],
+  "causes": {
+    "main": "Infection by Campylobacter fetus bacteria",
+    "specific_causes": [
+      "Natural breeding with infected bulls",
+      "Poor biosecurity",
+      "Shared bulls",
+      "Lack of testing",
+      "Poor breeding management"
+    ]
+  },
+  "prevention": [
+    "Regular vaccination",
+    "Bull testing",
+    "Artificial insemination",
+    "Good biosecurity",
+    "Proper breeding records",
+    "Virgin bulls"
+  ]
+}

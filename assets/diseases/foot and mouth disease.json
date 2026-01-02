@@ -1,0 +1,42 @@
+{
+  "name": "Foot and Mouth Disease",
+  "information": "FMD is a highly contagious viral disease affecting cloven-hoofed animals. It causes blisters in the mouth and on feet, leading to severe production losses.",
+  "symptoms": [
+    "Blisters in mouth",
+    "Blisters on feet",
+    "Excessive salivation",
+    "Lameness",
+    "High fever",
+    "Depression",
+    "Loss of appetite",
+    "Reduced milk production",
+    "Weight loss",
+    "Abortion in pregnant animals"
+  ],
+  "remedies": [
+    "No specific treatment",
+    "Supportive care only",
+    "Must be reported to authorities",
+    "Movement restrictions",
+    "Often requires culling",
+    "Strict quarantine"
+  ],
+  "causes": {
+    "main": "Infection by foot and mouth disease virus",
+    "specific_causes": [
+      "Direct contact with infected animals",
+      "Airborne transmission",
+      "Contaminated equipment",
+      "Movement of infected animals",
+      "Contaminated vehicles"
+    ]
+  },
+  "prevention": [
+    "Strict biosecurity",
+    "Import controls",
+    "Movement restrictions",
+    "Regular monitoring",
+    "Quick reporting of cases",
+    "Vaccination in endemic areas"
+  ]
+}

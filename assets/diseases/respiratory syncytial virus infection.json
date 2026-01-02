@@ -1,0 +1,43 @@
+{
+  "name": "Respiratory Syncytial Virus Infection",
+  "information": "Respiratory syncytial virus (RSV) infection is a viral disease that primarily affects the respiratory system of cattle, leading to severe respiratory distress.",
+  "symptoms": [
+    "Coughing",
+    "Nasal discharge",
+    "Fever",
+    "Depression",
+    "Loss of appetite",
+    "Difficulty breathing",
+    "Lethargy",
+    "Rapid breathing",
+    "Poor growth",
+    "Secondary bacterial infections"
+  ],
+  "remedies": [
+    "Supportive care",
+    "Fluid therapy",
+    "Antibiotic treatment for secondary infections",
+    "Rest",
+    "Good nursing care",
+    "Isolation of affected animals"
+  ],
+  "causes": {
+    "main": "Infection by respiratory syncytial virus",
+    "specific_causes": [
+      "Direct contact with infected animals",
+      "Contaminated environment",
+      "Poor ventilation",
+      "Stress",
+      "Overcrowding",
+      "Weakened immune system"
+    ]
+  },
+  "prevention": [
+    "Vaccination where available",
+    "Good management practices",
+    "Regular monitoring",
+    "Stress reduction",
+    "Proper housing",
+    "Avoiding contact with infected animals"
+  ]
+}

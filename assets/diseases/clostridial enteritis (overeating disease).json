@@ -1,0 +1,43 @@
+{
+  "name": "Clostridial Enteritis",
+  "information": "Clostridial enteritis, also known as overeating disease, is caused by Clostridium perfringens and leads to severe intestinal inflammation.",
+  "symptoms": [
+    "Severe diarrhea",
+    "Abdominal pain",
+    "Bloat",
+    "Depression",
+    "Loss of appetite",
+    "Fever",
+    "Dehydration",
+    "Rapid breathing",
+    "Death in severe cases",
+    "Weakness"
+  ],
+  "remedies": [
+    "Antibiotic treatment",
+    "Supportive care",
+    "Fluid therapy",
+    "Pain management",
+    "Isolation of affected animals",
+    "Good nursing care"
+  ],
+  "causes": {
+    "main": "Infection by Clostridium perfringens",
+    "specific_causes": [
+      "Overeating",
+      "Sudden diet changes",
+      "Rich feed",
+      "Environmental stress",
+      "Poor feed management",
+      "Weakened immune system"
+    ]
+  },
+  "prevention": [
+    "Proper feeding practices",
+    "Gradual diet changes",
+    "Good hygiene",
+    "Regular monitoring",
+    "Stress reduction",
+    "Vaccination where applicable"
+  ]
+}

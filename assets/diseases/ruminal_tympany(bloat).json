@@ -1,0 +1,32 @@
+{
+  "name": "Ruminal Tympany (Bloat)",
+  "information": "Ruminal tympany, commonly known as bloat, is a condition in ruminants characterized by the accumulation of gas in the rumen, leading to distension and potential respiratory distress.",
+  "symptoms": [
+    "Abdominal distension",
+    "Discomfort or pain",
+    "Difficulty breathing",
+    "Excessive salivation",
+    "Anorexia"
+  ],
+  "remedies": [
+    "Administering anti-foaming agents",
+    "Stomach tubing to relieve pressure",
+    "Surgical intervention in severe cases",
+    "Dietary management to prevent recurrence"
+  ],
+  "causes": {
+    "main": "Excessive fermentation of certain feeds",
+    "specific_causes": [
+      "High-protein or high-carbohydrate diets",
+      "Rapid changes in diet",
+      "Ingestion of lush pasture",
+      "Certain feed additives"
+    ]
+  },
+  "prevention": [
+    "Gradual dietary changes",
+    "Avoiding high-risk feeds",
+    "Regular monitoring of grazing conditions",
+    "Providing adequate water and minerals"
+  ]
+}

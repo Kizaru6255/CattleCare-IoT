@@ -1,0 +1,39 @@
+{
+  "name": "Johne's Disease",
+  "information": "Johne's Disease is a chronic, contagious bacterial disease that affects the intestinal tract of cattle. It's caused by Mycobacterium avium subspecies paratuberculosis.",
+  "symptoms": [
+    "Chronic diarrhea",
+    "Weight loss despite normal appetite",
+    "Decreased milk production",
+    "Bottle jaw (fluid swelling under jaw)",
+    "Rough hair coat",
+    "Depression",
+    "Progressive weakness",
+    "Death in advanced cases"
+  ],
+  "remedies": [
+    "No effective treatment available",
+    "Infected animals should be culled",
+    "Supportive care only",
+    "Management of symptoms",
+    "Prevention is key"
+  ],
+  "causes": {
+    "main": "Infection by Mycobacterium avium subspecies paratuberculosis",
+    "specific_causes": [
+      "Exposure to contaminated manure",
+      "Consuming contaminated colostrum or milk",
+      "Contact with infected animals",
+      "Poor sanitation",
+      "Exposure as young calves"
+    ]
+  },
+  "prevention": [
+    "Testing and culling infected animals",
+    "Good calving area hygiene",
+    "Proper colostrum management",
+    "Regular testing program",
+    "Biosecurity measures",
+    "Separate calving areas for infected and clean herds"
+  ]
+}

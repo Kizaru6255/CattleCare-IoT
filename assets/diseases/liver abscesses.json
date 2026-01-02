@@ -1,0 +1,43 @@
+{
+  "name": "Liver Abscesses",
+  "information": "Liver abscesses are localized infections in the liver, often caused by bacteria from the rumen, leading to severe health issues.",
+  "symptoms": [
+    "Weight loss",
+    "Poor appetite",
+    "Fever",
+    "Depression",
+    "Abdominal pain",
+    "Lethargy",
+    "Reduced milk production",
+    "Jaundice",
+    "Sudden death",
+    "Poor coat condition"
+  ],
+  "remedies": [
+    "Antibiotic treatment",
+    "Supportive care",
+    "Surgery if necessary",
+    "Fluid therapy",
+    "Good nutrition",
+    "Regular monitoring"
+  ],
+  "causes": {
+    "main": "Bacterial infection from the rumen",
+    "specific_causes": [
+      "High grain diets",
+      "Poor feed management",
+      "Stress",
+      "Environmental factors",
+      "Weakened immune system",
+      "Inadequate rumen health"
+    ]
+  },
+  "prevention": [
+    "Proper feeding practices",
+    "Gradual diet changes",
+    "Good hygiene",
+    "Regular monitoring",
+    "Stress reduction",
+    "Balanced nutrition"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Brucellosis",
+  "information": "Brucellosis is a highly contagious bacterial disease that affects cattle and can be transmitted to humans. It's caused by various species of Brucella bacteria.",
+  "symptoms": [
+    "Abortions in late pregnancy",
+    "Retained placenta",
+    "Weak calves at birth",
+    "Reduced milk production",
+    "Infertility",
+    "Swollen joints",
+    "Lameness",
+    "Fever"
+  ],
+  "remedies": [
+    "No effective treatment for infected animals",
+    "Infected animals must be culled",
+    "Proper disposal of infected materials",
+    "Thorough cleaning and disinfection of contaminated areas"
+  ],
+  "causes": {
+    "main": "Infection by Brucella bacteria, primarily Brucella abortus in cattle",
+    "specific_causes": [
+      "Contact with infected animals",
+      "Exposure to contaminated birth materials",
+      "Consumption of contaminated feed or water",
+      "Using infected bulls for breeding"
+    ]
+  },
+  "prevention": [
+    "Regular vaccination of young heifers",
+    "Testing and removal of infected animals",
+    "Proper disposal of aborted fetuses and placentas",
+    "Good biosecurity measures",
+    "Quarantine of new animals",
+    "Regular herd testing"
+  ]
+}

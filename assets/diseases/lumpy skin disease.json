@@ -1,0 +1,43 @@
+{
+  "name": "Lumpy Skin Disease",
+  "information": "Lumpy skin disease is a viral disease characterized by nodules on the skin. It's transmitted by biting insects and can cause significant production losses.",
+  "symptoms": [
+    "Skin nodules",
+    "High fever",
+    "Depression",
+    "Loss of appetite",
+    "Reduced milk production",
+    "Nasal discharge",
+    "Eye discharge",
+    "Swollen lymph nodes",
+    "Leg edema",
+    "Skin lesions"
+  ],
+  "remedies": [
+    "Supportive care",
+    "Antibiotics for secondary infections",
+    "Anti-inflammatory medication",
+    "Wound treatment",
+    "Isolation of affected animals",
+    "Good nursing care"
+  ],
+  "causes": {
+    "main": "Infection by lumpy skin disease virus",
+    "specific_causes": [
+      "Insect vectors",
+      "Direct contact",
+      "Contaminated equipment",
+      "Animal movement",
+      "Poor vector control",
+      "Environmental factors"
+    ]
+  },
+  "prevention": [
+    "Vaccination",
+    "Insect control",
+    "Movement control",
+    "Quarantine measures",
+    "Regular monitoring",
+    "Good biosecurity"
+  ]
+}

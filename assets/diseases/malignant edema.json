@@ -1,0 +1,33 @@
+{
+  "name": "Malignant Edema",
+  "information": "Malignant edema is a severe, often fatal disease caused by the infection of certain bacteria, leading to swelling and tissue necrosis.",
+  "symptoms": [
+    "Swelling at the site of infection",
+    "Fever",
+    "Pain",
+    "Tissue necrosis",
+    "Rapid breathing",
+    "Shock"
+  ],
+  "remedies": [
+    "Antibiotic therapy",
+    "Surgical intervention to remove necrotic tissue",
+    "Supportive care",
+    "Fluid therapy"
+  ],
+  "causes": {
+    "main": "Infection by Clostridium species or other bacteria",
+    "specific_causes": [
+      "Wounds or injuries",
+      "Poor hygiene",
+      "Stress",
+      "Immunosuppression"
+    ]
+  },
+  "prevention": [
+    "Good hygiene practices",
+    "Prompt treatment of wounds",
+    "Vaccination where applicable",
+    "Stress management"
+  ]
+}

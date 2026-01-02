@@ -1,0 +1,43 @@
+{
+  "name": "Enzootic Bovine Leukosis",
+  "information": "Enzootic bovine leukosis is a viral disease caused by the bovine leukemia virus (BLV), leading to lymphosarcoma and other cancers in cattle.",
+  "symptoms": [
+    "Weight loss",
+    "Lymph node enlargement",
+    "Anemia",
+    "Fever",
+    "Depression",
+    "Reduced milk production",
+    "Lethargy",
+    "Abortion",
+    "Poor coat condition",
+    "Death in advanced cases"
+  ],
+  "remedies": [
+    "No specific treatment",
+    "Supportive care",
+    "Culling of affected animals",
+    "Regular monitoring",
+    "Good management practices",
+    "Biosecurity measures"
+  ],
+  "causes": {
+    "main": "Infection by bovine leukemia virus (BLV)",
+    "specific_causes": [
+      "Direct contact with infected animals",
+      "Contaminated equipment",
+      "Blood transmission",
+      "Vertical transmission",
+      "Poor biosecurity",
+      "Stress"
+    ]
+  },
+  "prevention": [
+    "Testing and culling",
+    "Good biosecurity",
+    "Avoiding contact with infected animals",
+    "Regular health checks",
+    "Proper management",
+    "Isolation of new animals"
+  ]
+}

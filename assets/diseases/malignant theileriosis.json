@@ -1,0 +1,43 @@
+{
+  "name": "Malignant Theileriosis",
+  "information": "Malignant theileriosis is a tick-borne disease caused by Theileria parasites, leading to severe anemia and often death.",
+  "symptoms": [
+    "High fever",
+    "Severe anemia",
+    "Depression",
+    "Loss of appetite",
+    "Swollen lymph nodes",
+    "Jaundice",
+    "Weakness",
+    "Rapid breathing",
+    "Death in severe cases",
+    "Poor coat condition"
+  ],
+  "remedies": [
+    "Antiparasitic treatment",
+    "Supportive care",
+    "Blood transfusions",
+    "Fluid therapy",
+    "Good nutrition",
+    "Regular monitoring"
+  ],
+  "causes": {
+    "main": "Infection by Theileria parasites",
+    "specific_causes": [
+      "Tick bites",
+      "Poor vector control",
+      "Environmental exposure",
+      "Stress",
+      "Weakened immune system",
+      "Lack of immunity"
+    ]
+  },
+  "prevention": [
+    "Tick control",
+    "Vaccination where available",
+    "Good management practices",
+    "Regular monitoring",
+    "Avoiding contact with infected animals",
+    "Biosecurity measures"
+  ]
+}

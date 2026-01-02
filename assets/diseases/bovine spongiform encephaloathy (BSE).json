@@ -1,0 +1,41 @@
+{
+  "name": "Bovine Spongiform Encephalopathy",
+  "information": "BSE, commonly known as 'mad cow disease', is a fatal neurodegenerative disease that affects the brain and nervous system of cattle.",
+  "symptoms": [
+    "Changes in behavior",
+    "Nervousness",
+    "Aggression",
+    "Abnormal posture",
+    "Difficulty walking",
+    "Loss of coordination",
+    "Weight loss",
+    "Decreased milk production",
+    "Progressive deterioration",
+    "Always fatal"
+  ],
+  "remedies": [
+    "No treatment available",
+    "Must be reported to authorities",
+    "Affected animals must be destroyed",
+    "Proper disposal required",
+    "Surveillance programs"
+  ],
+  "causes": {
+    "main": "Infection by abnormal prion proteins",
+    "specific_causes": [
+      "Contaminated feed",
+      "Animal protein in feed",
+      "Genetic factors",
+      "Improper feed processing",
+      "Cross-contamination"
+    ]
+  },
+  "prevention": [
+    "Feed regulations",
+    "Ban on animal proteins",
+    "Surveillance testing",
+    "Proper feed sourcing",
+    "Feed processing controls",
+    "Strict import controls"
+  ]
+}

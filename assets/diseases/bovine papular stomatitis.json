@@ -1,0 +1,41 @@
+{
+  "name": "Bovine Papular Stomatitis",
+  "information": "Bovine Papular Stomatitis is a viral disease that causes lesions in the mouth and on the muzzle, primarily affecting young cattle.",
+  "symptoms": [
+    "Raised red spots",
+    "Mouth lesions",
+    "Muzzle lesions",
+    "Excessive salivation",
+    "Difficulty eating",
+    "Mild fever",
+    "Depression",
+    "Reduced feed intake",
+    "Usually self-limiting"
+  ],
+  "remedies": [
+    "Supportive care",
+    "Soft feeds",
+    "Oral antiseptics",
+    "Pain management",
+    "Good nursing care",
+    "Time for recovery"
+  ],
+  "causes": {
+    "main": "Infection by parapoxvirus",
+    "specific_causes": [
+      "Direct contact",
+      "Contaminated equipment",
+      "Young age susceptibility",
+      "Stress",
+      "Environmental factors"
+    ]
+  },
+  "prevention": [
+    "Good hygiene",
+    "Equipment sanitation",
+    "Isolation of affected animals",
+    "Stress reduction",
+    "Regular monitoring",
+    "Proper management"
+  ]
+}

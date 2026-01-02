@@ -1,0 +1,31 @@
+{
+  "name": "Wooden Tongue",
+  "information": "Wooden tongue is a bacterial infection in cattle caused by Actinobacillus lignieresii, leading to inflammation and swelling of the tongue and other oral tissues.",
+  "symptoms": [
+    "Swelling of the tongue",
+    "Difficulty eating and swallowing",
+    "Excessive salivation",
+    "Foul breath",
+    "Fever"
+  ],
+  "remedies": [
+    "Antibiotic therapy",
+    "Anti-inflammatory medications",
+    "Supportive care and hydration",
+    "Surgical intervention in severe cases"
+  ],
+  "causes": {
+    "main": "Infection by Actinobacillus lignieresii",
+    "specific_causes": [
+      "Injury to the mouth or tongue",
+      "Poor oral hygiene",
+      "Exposure to rough feed"
+    ]
+  },
+  "prevention": [
+    "Maintaining good oral hygiene",
+    "Providing soft, palatable feed",
+    "Regular veterinary check-ups",
+    "Prompt treatment of oral injuries"
+  ]
+}

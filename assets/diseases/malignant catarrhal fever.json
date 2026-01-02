@@ -1,0 +1,42 @@
+{
+  "name": "Malignant Catarrhal Fever",
+  "information": "MCF is a severe viral disease that affects cattle and other ruminants. It's usually fatal and causes inflammation of the mucous membranes and nervous system.",
+  "symptoms": [
+    "High fever",
+    "Depression",
+    "Nasal discharge",
+    "Eye inflammation",
+    "Corneal opacity",
+    "Enlarged lymph nodes",
+    "Nervous signs",
+    "Skin lesions",
+    "Diarrhea",
+    "Death within days"
+  ],
+  "remedies": [
+    "No specific treatment available",
+    "Supportive care only",
+    "Anti-inflammatory medication",
+    "Fluid therapy",
+    "Nursing care",
+    "Usually fatal despite treatment"
+  ],
+  "causes": {
+    "main": "Infection by MCF virus group, usually from sheep (OvHV-2) or wildebeest (AlHV-1)",
+    "specific_causes": [
+      "Contact with sheep or wildebeest",
+      "Exposure to infected animals",
+      "Stress",
+      "Seasonal factors",
+      "Age susceptibility"
+    ]
+  },
+  "prevention": [
+    "Separation from sheep/wildebeest",
+    "Good biosecurity",
+    "Stress reduction",
+    "Proper management",
+    "Avoiding mixed species grazing",
+    "Regular monitoring"
+  ]
+}

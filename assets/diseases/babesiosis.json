@@ -1,0 +1,43 @@
+{
+  "name": "Babesiosis",
+  "information": "Babesiosis is a tick-borne disease caused by Babesia parasites that infect red blood cells, causing severe anemia and jaundice.",
+  "symptoms": [
+    "High fever",
+    "Anemia",
+    "Jaundice",
+    "Dark urine",
+    "Depression",
+    "Weakness",
+    "Loss of appetite",
+    "Rapid breathing",
+    "Decreased production",
+    "Death in severe cases"
+  ],
+  "remedies": [
+    "Anti-parasitic drugs",
+    "Supportive care",
+    "Blood transfusions",
+    "Fluid therapy",
+    "Anti-inflammatory medication",
+    "Rest"
+  ],
+  "causes": {
+    "main": "Infection by Babesia parasites",
+    "specific_causes": [
+      "Tick bites",
+      "Poor tick control",
+      "Grazing in tick areas",
+      "Lack of immunity",
+      "Stress",
+      "Age susceptibility"
+    ]
+  },
+  "prevention": [
+    "Tick control",
+    "Regular inspection",
+    "Pasture management",
+    "Strategic dipping",
+    "Vaccination where available",
+    "Good biosecurity"
+  ]
+}

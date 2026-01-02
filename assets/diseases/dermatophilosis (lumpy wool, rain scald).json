@@ -1,0 +1,42 @@
+{
+  "name": "Dermatophilosis",
+  "information": "Dermatophilosis is a bacterial skin infection that causes crusty scabs and lesions. It's also known as rain scald or streptothricosis.",
+  "symptoms": [
+    "Crusty scabs",
+    "Matted hair",
+    "Pain in affected areas",
+    "Hair loss",
+    "Thickened skin",
+    "Pus under scabs",
+    "Lesions on legs and body",
+    "Reduced growth rate",
+    "Decreased hide value"
+  ],
+  "remedies": [
+    "Antibiotic treatment",
+    "Removal of scabs",
+    "Topical treatments",
+    "Keep animal dry",
+    "Supportive care",
+    "Regular cleaning of affected areas"
+  ],
+  "causes": {
+    "main": "Infection by Dermatophilus congolensis bacteria",
+    "specific_causes": [
+      "Prolonged wetness",
+      "High humidity",
+      "Skin trauma",
+      "Tick bites",
+      "Poor nutrition",
+      "Compromised immunity"
+    ]
+  },
+  "prevention": [
+    "Shelter from rain",
+    "Good nutrition",
+    "Regular grooming",
+    "Tick control",
+    "Proper drainage in yards",
+    "Avoiding overcrowding"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Paratuberculosis",
+  "information": "Paratuberculosis, also known as Johne's Disease, is a chronic bacterial disease affecting the intestines. It causes progressive weight loss and diarrhea.",
+  "symptoms": [
+    "Chronic diarrhea",
+    "Progressive weight loss",
+    "Normal appetite initially",
+    "Decreased milk production",
+    "Rough hair coat",
+    "Bottle jaw",
+    "Weakness",
+    "Depression",
+    "Eventually fatal"
+  ],
+  "remedies": [
+    "No effective treatment",
+    "Culling of infected animals",
+    "Supportive care only",
+    "Management of symptoms",
+    "Focus on prevention"
+  ],
+  "causes": {
+    "main": "Infection by Mycobacterium avium subspecies paratuberculosis",
+    "specific_causes": [
+      "Exposure as young calves",
+      "Contaminated colostrum or milk",
+      "Contaminated environment",
+      "Poor calving area hygiene",
+      "Contact with infected animals"
+    ]
+  },
+  "prevention": [
+    "Testing and culling program",
+    "Clean calving areas",
+    "Proper colostrum management",
+    "Good sanitation",
+    "Separate young stock",
+    "Regular herd testing"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "name": "Mucosal Disease",
+  "information": "Mucosal disease refers to a variety of conditions that affect the mucous membranes, leading to inflammation, ulceration, or other pathological changes.",
+  "symptoms": [
+    "Mouth sores",
+    "Nasal congestion",
+    "Difficulty swallowing",
+    "Dryness of mucous membranes",
+    "Bleeding or discharge"
+  ],
+  "remedies": [
+    "Topical treatments for sores",
+    "Hydration therapy",
+    "Antibiotics for secondary infections",
+    "Corticosteroids for inflammation"
+  ],
+  "causes": {
+    "main": "Infections, autoimmune disorders, or irritants",
+    "specific_causes": [
+      "Viral infections (e.g., herpes simplex)",
+      "Bacterial infections",
+      "Allergic reactions",
+      "Chemical irritants"
+    ]
+  },
+  "prevention": [
+    "Good oral hygiene",
+    "Avoiding irritants",
+    "Managing underlying health conditions",
+    "Regular check-ups with a healthcare provider"
+  ]
+}

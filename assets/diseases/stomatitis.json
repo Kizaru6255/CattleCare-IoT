@@ -1,0 +1,42 @@
+{
+  "name": "Stomatitis",
+  "information": "Stomatitis is inflammation of the mouth tissues that can be caused by various factors including viruses, bacteria, or physical irritants.",
+  "symptoms": [
+    "Mouth ulcers",
+    "Excessive salivation",
+    "Difficulty eating",
+    "Weight loss",
+    "Depression",
+    "Reduced feed intake",
+    "Bad breath",
+    "Swollen tongue or lips",
+    "Fever in some cases"
+  ],
+  "remedies": [
+    "Soft feeds",
+    "Oral antiseptics",
+    "Pain management",
+    "Antibiotics if bacterial",
+    "Supportive care",
+    "Regular cleaning of mouth"
+  ],
+  "causes": {
+    "main": "Multiple causes including viral, bacterial, or physical irritation",
+    "specific_causes": [
+      "Viral infections",
+      "Bacterial infections",
+      "Rough feed",
+      "Chemical irritants",
+      "Physical trauma",
+      "Nutritional deficiencies"
+    ]
+  },
+  "prevention": [
+    "Good quality feed",
+    "Regular dental care",
+    "Proper nutrition",
+    "Clean water supply",
+    "Avoiding irritants",
+    "Regular health checks"
+  ]
+}

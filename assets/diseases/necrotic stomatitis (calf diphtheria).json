@@ -1,0 +1,43 @@
+{
+  "name": "Necrotic Stomatitis",
+  "information": "Necrotic stomatitis, also known as calf diphtheria, is a bacterial infection causing necrosis of the oral cavity, primarily affecting young cattle.",
+  "symptoms": [
+    "Swollen mouth",
+    "Foul breath",
+    "Excessive salivation",
+    "Difficulty eating",
+    "Depression",
+    "Fever",
+    "Weight loss",
+    "Nasal discharge",
+    "Pain when eating",
+    "Swelling of lymph nodes"
+  ],
+  "remedies": [
+    "Antibiotic treatment",
+    "Supportive care",
+    "Fluid therapy",
+    "Soft feed",
+    "Good hygiene practices",
+    "Isolation of affected animals"
+  ],
+  "causes": {
+    "main": "Infection by Fusobacterium necrophorum bacteria",
+    "specific_causes": [
+      "Mouth injuries",
+      "Poor hygiene",
+      "Environmental stress",
+      "Nutritional deficiencies",
+      "Weakened immune system",
+      "Contaminated feed"
+    ]
+  },
+  "prevention": [
+    "Good hygiene practices",
+    "Prompt treatment of injuries",
+    "Regular monitoring",
+    "Proper nutrition",
+    "Stress reduction",
+    "Avoiding overcrowding"
+  ]
+}

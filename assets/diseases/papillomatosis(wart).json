@@ -1,0 +1,41 @@
+{
+  "name": "Papillomatosis",
+  "information": "Papillomatosis is a viral disease causing warts on the skin and mucous membranes. It's most common in young cattle and usually self-limiting.",
+  "symptoms": [
+    "Wart-like growths",
+    "Multiple lesions",
+    "Cauliflower-like appearance",
+    "Most common on head and neck",
+    "Can occur anywhere on body",
+    "May interfere with feeding",
+    "Potential bleeding if damaged",
+    "Variable size growths"
+  ],
+  "remedies": [
+    "Often self-limiting",
+    "Surgical removal if necessary",
+    "Autogenous vaccines",
+    "Commercial vaccines",
+    "Prevention of trauma",
+    "Good hygiene"
+  ],
+  "causes": {
+    "main": "Infection by bovine papillomavirus",
+    "specific_causes": [
+      "Direct contact with infected animals",
+      "Contaminated equipment",
+      "Skin abrasions",
+      "Age susceptibility",
+      "Stress",
+      "Poor immunity"
+    ]
+  },
+  "prevention": [
+    "Vaccination in problem herds",
+    "Good hygiene",
+    "Clean equipment",
+    "Minimize skin trauma",
+    "Isolation of affected animals",
+    "Stress reduction"
+  ]
+}

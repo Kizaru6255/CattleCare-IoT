@@ -1,0 +1,43 @@
+{
+  "name": "Pink Tooth",
+  "information": "Pink tooth, also known as actinomycosis, is a bacterial infection that affects the jaw and teeth, leading to abscess formation.",
+  "symptoms": [
+    "Swelling of the jaw",
+    "Foul breath",
+    "Difficulty eating",
+    "Excessive salivation",
+    "Pain when chewing",
+    "Weight loss",
+    "Fever",
+    "Depression",
+    "Abscess formation",
+    "Poor coat condition"
+  ],
+  "remedies": [
+    "Antibiotic treatment",
+    "Surgical drainage of abscesses",
+    "Supportive care",
+    "Good hygiene practices",
+    "Isolation of affected animals",
+    "Regular monitoring"
+  ],
+  "causes": {
+    "main": "Infection by Actinomyces bovis bacteria",
+    "specific_causes": [
+      "Mouth injuries",
+      "Poor dental hygiene",
+      "Environmental exposure",
+      "Stress",
+      "Weakened immune system",
+      "Contaminated feed"
+    ]
+  },
+  "prevention": [
+    "Good dental hygiene",
+    "Prompt treatment of injuries",
+    "Regular monitoring",
+    "Proper nutrition",
+    "Stress reduction",
+    "Avoiding overcrowding"
+  ]
+}

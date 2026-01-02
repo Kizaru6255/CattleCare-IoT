@@ -1,0 +1,31 @@
+{
+  "name": "Trypanosomiasis",
+  "information": "Trypanosomiasis, also known as sleeping sickness in humans and Nagana in animals, is caused by protozoan parasites of the genus Trypanosoma, transmitted by tsetse flies.",
+  "symptoms": [
+    "Fever",
+    "Headaches",
+    "Joint pain",
+    "Fatigue",
+    "Neurological symptoms (in advanced stages)"
+  ],
+  "remedies": [
+    "Antiparasitic medications (e.g., pentamidine, suramin)",
+    "Supportive care",
+    "Management of complications",
+    "Vector control measures"
+  ],
+  "causes": {
+    "main": "Infection by Trypanosoma parasites",
+    "specific_causes": [
+      "Bite from infected tsetse flies",
+      "Transmission through blood transfusion",
+      "Congenital transmission"
+    ]
+  },
+  "prevention": [
+    "Avoiding tsetse fly habitats",
+    "Use of insect repellent",
+    "Wearing protective clothing",
+    "Regular health check-ups in endemic areas"
+  ]
+}

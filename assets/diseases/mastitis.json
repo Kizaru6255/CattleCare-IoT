@@ -1,0 +1,43 @@
+{
+  "name": "Mastitis",
+  "information": "Mastitis is inflammation of the mammary gland and udder tissue. It's one of the most common and costly diseases in dairy cattle.",
+  "symptoms": [
+    "Swollen udder",
+    "Abnormal milk",
+    "Pain in udder",
+    "Reduced milk production",
+    "Fever",
+    "Depression",
+    "Loss of appetite",
+    "Hard quarters",
+    "Hot udder",
+    "Changes in milk consistency"
+  ],
+  "remedies": [
+    "Antibiotic treatment",
+    "Frequent milking",
+    "Supportive care",
+    "Anti-inflammatory medication",
+    "Fluid therapy",
+    "Udder massage"
+  ],
+  "causes": {
+    "main": "Bacterial infection of the udder",
+    "specific_causes": [
+      "Poor milking hygiene",
+      "Teat injuries",
+      "Environmental contamination",
+      "Faulty milking equipment",
+      "Poor housing conditions",
+      "Stress"
+    ]
+  },
+  "prevention": [
+    "Good milking hygiene",
+    "Regular teat dipping",
+    "Clean environment",
+    "Proper milking technique",
+    "Equipment maintenance",
+    "Regular monitoring"
+  ]
+}

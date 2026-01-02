@@ -21,6 +21,9 @@ A comprehensive, IoT-integrated mobile application designed for modern dairy far
   <img src="assets/demo/WhatsApp Image 2026-01-02 at 9.07.29 PM (1).jpeg" width="200" />
   <img src="assets/demo/WhatsApp Image 2026-01-02 at 9.07.30 PM.jpeg" width="200" />
 </p>
+<p>
+   <video src="assets/demo/demo.mp4" width="320" height="340" controls></video>
+</p>
 
 ### 🎥 Demo Videos
 <p align="center">
@@ -98,4 +101,5 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📄 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 

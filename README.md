@@ -27,6 +27,10 @@ A comprehensive, IoT-integrated mobile application designed for modern dairy far
   <video src="assets/demo/demo.mp4" width="320" height="240" controls></video>
   <video src="assets/demo/demo2.mp4" width="320" height="240" controls></video>
 </p>
+<p align="center">
+  <video src="assets/demo/WhatsApp Video 2026-01-02 at 9.07.28 PM.mp4" width="320" height="240" controls></video>
+  <video src="assets/demo/WhatsApp Video 2026-01-02 at 9.08.01 PM.mp4" width="320" height="240" controls></video>
+</p>
 
 ---
 
